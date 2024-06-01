@@ -5,6 +5,7 @@ function App() {
   return (
    <>
     <h1>Raja</h1>
+    <h2>Rathinam</h2>
    </>
   );
 }
